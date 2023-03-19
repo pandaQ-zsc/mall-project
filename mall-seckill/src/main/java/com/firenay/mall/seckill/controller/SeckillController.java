@@ -28,14 +28,14 @@ public class SeckillController {
 	@GetMapping("/currentSeckillSkus")
 	public R getCurrentSeckillSkus(){
 		List<SeckillSkuRedisTo> vos = seckillService.getCurrentSeckillSkus();
-		return ().setData(vos);
+		return R.ok().setData(vos);
 	}
 
 	@ResponseBody
 	@GetMapping("/sku/seckill/{skuId}")
 	public R getSkuSeckillInfo(@PathVariable("skuId") Long skuId){
 		SeckillSkuRedisTo to = seckillService.getSkuSeckillInfo(skuId);
-		return ().setData(to);
+		return R.ok().setData(to);
 	}
 
 	@GetMapping("/kill")

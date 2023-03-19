@@ -97,7 +97,7 @@ public class LoginController {
 		} catch (Exception e) {
 			log.warn("远程调用不知名错误 [无需解决]");
 		}
-		return ();
+		return R.ok();
 	}
 
 	/**
