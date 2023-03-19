@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.5.RELEASE/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-auth-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-coupon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-member/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-seckill/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-test-sso-clientA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-test-sso-clientB/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-test-sso-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-third-party/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-ware/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renren-fast/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renren-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso/sso-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso/sso-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso/sso-samples/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso/sso-samples/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso/sso-samples/sso-token-sample-springboot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso/sso-samples/sso-token-sample-springboot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso/sso-samples/sso-web-sample-springboot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso/sso-samples/sso-web-sample-springboot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso/sso-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sso/sso-server/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mall-ware" />
+        <module name="mall-search" />
+        <module name="mall-test-sso-server" />
+        <module name="mall-common" />
+        <module name="renren-generator" />
+        <module name="mall-auth-server" />
+        <module name="sso-web-sample-springboot" />
+        <module name="mall-test-sso-clientA" />
+        <module name="mall-test-sso-clientB" />
+        <module name="mall-coupon" />
+        <module name="mall-cart" />
+        <module name="mall-seckill" />
+        <module name="sso-token-sample-springboot" />
+        <module name="mall-third-party" />
+        <module name="sso-server" />
+        <module name="renren-fast" />
+        <module name="mall-order" />
+        <module name="sso-core" />
+        <module name="mall-product" />
+        <module name="mall-member" />
+        <module name="mall-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mall" target="1.8" />
+      <module name="mall-auth-server" target="1.8" />
+      <module name="mall-cart" target="1.8" />
+      <module name="mall-common" target="1.8" />
+      <module name="mall-coupon" target="1.8" />
+      <module name="mall-gateway" target="1.8" />
+      <module name="mall-member" target="1.8" />
+      <module name="mall-order" target="1.8" />
+      <module name="mall-product" target="1.8" />
+      <module name="mall-search" target="1.8" />
+      <module name="mall-seckill" target="1.8" />
+      <module name="mall-test-sso-clientA" target="1.8" />
+      <module name="mall-test-sso-clientB" target="1.8" />
+      <module name="mall-test-sso-server" target="1.8" />
+      <module name="mall-third-party" target="1.8" />
+      <module name="mall-ware" target="1.8" />
+      <module name="renren-fast" target="1.8" />
+      <module name="renren-generator" target="1.8" />
+      <module name="sso" target="1.8" />
+      <module name="sso-core" target="1.8" />
+      <module name="sso-samples" target="1.8" />
+      <module name="sso-server" target="1.8" />
+      <module name="sso-token-sample-springboot" target="1.8" />
+      <module name="sso-web-sample-springboot" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mall-auth-server" options="-parameters" />
+      <module name="mall-cart" options="-parameters" />
+      <module name="mall-coupon" options="-parameters" />
+      <module name="mall-gateway" options="-parameters" />
+      <module name="mall-member" options="-parameters" />
+      <module name="mall-order" options="-parameters" />
+      <module name="mall-product" options="-parameters" />
+      <module name="mall-search" options="-parameters" />
+      <module name="mall-seckill" options="-parameters" />
+      <module name="mall-test-sso-clientA" options="-parameters" />
+      <module name="mall-test-sso-clientB" options="-parameters" />
+      <module name="mall-test-sso-server" options="-parameters" />
+      <module name="mall-third-party" options="-parameters" />
+      <module name="mall-ware" options="-parameters" />
+      <module name="renren-fast" options="-parameters" />
+      <module name="renren-generator" options="-parameters" />
+    </option>
+  </component>
+</project>

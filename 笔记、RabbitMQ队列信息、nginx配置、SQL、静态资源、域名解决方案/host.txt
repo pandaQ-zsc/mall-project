@@ -1,0 +1,7 @@
+# My hosts
+192.168.184.132 nay1
+192.168.184.132 order.glmall.com seckill.glmall.com glmall.com search.glmall.com
+192.168.184.132 item.glmall.com auth.glmall.com member.glmall.com cart.glmall.com
+
+# 单点登录
+127.0.0.1 ssoserver.com clientA.com clientB.com localhost
